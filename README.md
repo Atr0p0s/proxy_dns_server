@@ -15,7 +15,7 @@ Server output:
 ...Server configuration...
 >> Upper server is set to '192.168.88.1'
 >> Refused answer is set to 'Permission denied'
->> Added 2 site(s) to the blacklist
+>> Added 2 domain(s) to the blacklist
 
 DNS proxy server is running...
 Request wwwblockedcomua is blocked

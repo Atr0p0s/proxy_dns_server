@@ -3,7 +3,7 @@
 Dns server with blacklist support.
 
 Configuration file: server.config.
-It saves setting in JSON format, that is parsed via cJSON library (github.com/DaveGamble/cJSON).
+It saves setting in JSON format, that is parsed via [cJSON](https://github.com/DaveGamble/cJSON) library.
 
 To compile the server use: 'gcc dns_server.c -lcjson \`pkg-config --cflags --libs glib-2.0\` -o dns.out'
 
